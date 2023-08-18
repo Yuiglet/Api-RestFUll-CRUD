@@ -1,0 +1,1 @@
+En relacion al punto 4 y 5 no logre realizarlos ya que no se mucho sobre pruebas y el uso de tokens JWT.
